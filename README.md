@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ruhinborkar
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning web devlopment
-- 💞️ I’m looking to collaborate on project
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
 - 📫 reach me at borkarruhin@gmail.com
 - 😄 Pronouns: ruhin
 - ⚡ Fun fact: ...
