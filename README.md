@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 📫 reach me at borkarruhin@gmail.com
 - 😄 Pronouns: ruhin
-- ⚡ Fun fact: ...
+
 
 <!---
 ruhinborkar/ruhinborkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
