@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruhinborkar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
-- 📫 reach me at borkarruhin@gmail.com
+- 📫 reach me at ruhinborkar08@gmail.com
 - 😄 Pronouns: ruhin
 
 
